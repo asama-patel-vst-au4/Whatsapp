@@ -1,2 +1,3 @@
 # Whatsapp
-Whatsapp clone application ( Real-time chat application )
+
+Whatsapp clone ( Real-time chat application)
